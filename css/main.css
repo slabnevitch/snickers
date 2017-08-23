@@ -2026,6 +2026,9 @@ footer {
    width: 100%;
    flex-shrink: 0;
 }
+.card__bottom{
+   margin-top: 0;
+}
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
 /* Medium Devices, Desktops */
