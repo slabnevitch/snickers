@@ -2024,6 +2024,7 @@ footer {
 
 .card__descr{
    max-width: 100%;
+   flex-shrink: 0;
 }
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
