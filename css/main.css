@@ -2022,6 +2022,9 @@ footer {
   width: calc(50% - 30px);
   background-color: rgba(0, 0, 0, 0.7); }
 
+.card__descr{
+   max-width: 100%;
+}
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
 /* Medium Devices, Desktops */
